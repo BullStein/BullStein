@@ -4,27 +4,27 @@
 
 ###
 
-<h1 align="left">Canto profissional</h1>
+<h1 align="center">Canto profissional</h1>
 
 ###
 
-<p align="left">Meu nome é Arthur B. Steinbach e  esse é meu perfil !</p>
+<p align="center">Meu nome é Arthur B. Steinbach e  esse é meu perfil !</p>
 
 ###
 
-<h3 align="left">Sou um estudante e entusiasta da área de tecnologia, com nível intermediário de conhecimento em desenvolvimento e programação, em constante processo de aprendizado e evolução técnica. Possuo experiência com Python, HTML, CSS, JavaScript e desenvolvimento com Arduino, além de estar ampliando meus conhecimentos em linguagens como C++ e C#. Busco oportunidades de empregação em empresas da área de Tecnologia da Informação, onde possa atuar em nível júnior ou intermediário, contribuir para projetos reais, desenvolver soluções eficientes e crescer profissionalmente em um ambiente colaborativo e desafiador.</h3>
+<h3 align="center">Sou um estudante e entusiasta da área de tecnologia, com nível intermediário de conhecimento em desenvolvimento e programação, em constante processo de aprendizado e evolução técnica. Possuo experiência com Python, HTML, CSS, JavaScript e desenvolvimento com Arduino, além de estar ampliando meus conhecimentos em linguagens como C++ e C#. Busco oportunidades de empregação em empresas da área de Tecnologia da Informação, onde possa atuar em nível júnior ou intermediário, contribuir para projetos reais, desenvolver soluções eficientes e crescer profissionalmente em um ambiente colaborativo e desafiador.</h3>
 
 ###
 
-<p align="left">✨ Carreira: começo -> 2018 até -> Agora<br>📚 Estudando: Pandas, Design, React.<br>🎯 Meta: ser Senior no meu ramo.</p>
+<p align="center">✨ Carreira: começo -> 2018 até -> Agora<br>📚 Estudando: Pandas, Design, React.<br>🎯 Meta: ser Senior no meu ramo.</p>
 
 ###
 
-<h4 align="left">CONTATO<br>📞 +11 98322-6387<br>✉️ arthurbuenosteinbach0@gmail.com</h4>
+<h4 align="center">CONTATO<br>📞 +11 98322-6387<br>✉️ arthurbuenosteinbach0@gmail.com</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/arthur-bueno-steinbach-8ba811344/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
