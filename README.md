@@ -85,6 +85,7 @@
 </div>
 
 ###
+<h2 align="center"> Visistas</h2>
 
 <div align="center">
   <img src="https://count.getloli.com/@:BullStein?theme=rule34&padding=5&scale=1.3&align=top&pixelated=1&darkmode=0"  />
