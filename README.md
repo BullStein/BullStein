@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="50" src="https://media1.tenor.com/m/S2TlbsmiokQAAAAC/border-line-violet.gif"  />
+  <img height="100" src="https://media1.tenor.com/m/S2TlbsmiokQAAAAC/border-line-violet.gif"  />
 </div>
 
 ###
@@ -97,7 +97,7 @@
 ###
 
 <div align="center">
-  <img height="50" src="https://media1.tenor.com/m/S2TlbsmiokQAAAAC/border-line-violet.gif"  />
+  <img height="100" src="https://media1.tenor.com/m/S2TlbsmiokQAAAAC/border-line-violet.gif"  />
 </div>
 
 ###
@@ -109,7 +109,7 @@
 ###
 
 <div align="center">
-  <img height="50" src="https://media1.tenor.com/m/S2TlbsmiokQAAAAC/border-line-violet.gif"  />
+  <img height="100" src="https://media1.tenor.com/m/S2TlbsmiokQAAAAC/border-line-violet.gif"  />
 </div>
 
 ###
