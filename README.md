@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">✨ Carreira: começo -> 2018 até -> Agora<br>📚 Estudando: Pandas, Design, React.<br>🎯 Meta: ser Senior no meu ramo.</p>
+<p align="center">✨ Carreira: começo -> 2018 até -> <b> AGORA </b><br>📚 Estudando: Pandas, Design, React.<br>🎯 Meta: ser Senior no meu ramo.</p>
 
 ###
 
