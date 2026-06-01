@@ -135,18 +135,12 @@ contato:     arthurbuenosteinbach0@gmail.com
 
 ## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=99999&color=9333EA&center=false&vCenter=true&width=230&lines=%24+cat+stats.log" alt="$ cat stats.log"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BullStein&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0015&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" height="170" alt="GitHub stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BullStein&locale=pt-br&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0015&title_color=c084fc&text_color=e9d5ff" height="170" alt="Top langs"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=BullStein&theme=tokyonight&hide_border=true&background=0d0015&ring=7c3aed&fire=c084fc&currStreakLabel=e9d5ff&sideLabels=c084fc&dates=7c3aed" height="160" alt="Streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BullStein&theme=onestar&no-frame=true&column=6&margin-w=8"/>
 </div>
 
 <div align="center">
