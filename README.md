@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img height="3" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:1a0533,50:4b0082,100:7b2fff&height=3&section=header" width="100%"/>
 </div>
 
@@ -140,3 +140,4 @@ dev = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d0015,50:2d0060,100:6b21a8&height=100&section=footer&reversal=false" width="100%"/>
 </div>
+](https://github.com/BullStein)
